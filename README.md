@@ -17,7 +17,7 @@
   
 <div>  
   <a href = "mailto:emanuelbrit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emanuel-brito-627829a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/emanuelbrit-o/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
+ 
  ![Snake animation](https://github.com/Emanuelbrit96/Emanuelbrit96/blob/output/github-contribution-grid-snake.svg)
