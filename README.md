@@ -13,8 +13,8 @@
   <img align="center" alt="Emanuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Emanuel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Emanuel-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="Emanuel-Postgres" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="Emanuel-MySql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="Emanuel-Postgres" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
+  <img align="center" alt="Emanuel-MySql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
             
           
 </div>  
