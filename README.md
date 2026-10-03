@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0BB85F&center=true&vCenter=true&width=650&lines=Olá!+Eu+sou+Emanuel+Brito;Dados%2C+Python+e+Automação;Aprendendo+e+construindo+soluções" alt="Olá! Eu sou Emanuel Brito. Dados, Python e Automação." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0BB85F&center=true&vCenter=true&width=700&lines=HELLO!+Emanuel+Brit_o+aqui..." 
 </div>
 
 ## 🎯 Sobre mim
